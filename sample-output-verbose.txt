@@ -1,0 +1,3007 @@
+Scraping url: http://www.jana.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Scraping url: http://www.jana.com/contact
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Email found: sales@jana.com
+Email found: press@jana.com
+Email found: info@jana.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Scraping url: http://www.jana.com/about
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/values
+Address found: http://www.jana.com/team
+Address found: http://www.jana.com/board
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/about#
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.financialexpress.com
+Ignoring off domain address: www.adgully.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: www.wsj.com
+Ignoring off domain address: timesofindia.indiatimes.com
+Ignoring off domain address: www.business-standard.com
+Ignoring off domain address: www.thehindubusinessline.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: adexchanger.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: recode.net
+Ignoring off domain address: www.digit.in
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: blog.percolate.com
+Ignoring off domain address: economictimes.indiatimes.com
+Ignoring off domain address: www.governancenow.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.financialexpress.com
+Ignoring off domain address: www.adgully.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: www.wsj.com
+Ignoring off domain address: timesofindia.indiatimes.com
+Ignoring off domain address: www.business-standard.com
+Ignoring off domain address: www.thehindubusinessline.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: adexchanger.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: recode.net
+Ignoring off domain address: www.digit.in
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: blog.percolate.com
+Ignoring off domain address: economictimes.indiatimes.com
+Ignoring off domain address: www.governancenow.com
+Ignoring off domain address: gadgets.ndtv.com
+Ignoring off domain address: www.cnet.com
+Ignoring off domain address: yourstory.com
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: www.ibtimes.com
+Ignoring off domain address: www.opptrends.com
+Ignoring off domain address: hbr.org
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: mobiledevmemo.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.prnewswire.com
+Ignoring off domain address: www.bizjournals.com
+Ignoring off domain address: www.huffingtonpost.com
+Ignoring off domain address: www.destinationcrm.com
+Ignoring off domain address: www.ibtimes.com
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: www.bizjournals.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.techinasia.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.washingtonpost.com
+Ignoring off domain address: www.techtudo.com.br
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: br.blastingnews.com
+Ignoring off domain address: www.thehindu.com
+Ignoring off domain address: www.thehindu.com
+Ignoring off domain address: telcoinnovations.blogspot.co.uk
+Ignoring off domain address: www.bloomberg.com
+Ignoring off domain address: www.ft.com
+Ignoring off domain address: www.forbes.com
+Ignoring off domain address: techcrunch.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.thehindu.com
+Ignoring off domain address: www.thehindu.com
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: pando.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.technologyreview.com
+Ignoring off domain address: www.forbes.com
+Ignoring off domain address: newsoffice.mit.edu
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.ibtimes.com
+Ignoring off domain address: medium.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.theguardian.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.forbes.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: www.androidheadlines.com
+Ignoring off domain address: www.forbes.com
+Ignoring off domain address: www.businessinsider.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.billboard.com
+Ignoring off domain address: blogs.wsj.com
+Ignoring off domain address: www.techinasia.com
+Ignoring off domain address: betaboston.com
+Ignoring off domain address: www.techinasia.com
+Ignoring off domain address: www.ibtimes.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.mediapost.com
+Ignoring off domain address: venturebeat.com
+Ignoring off domain address: adage.com
+Ignoring off domain address: www.forbes.com
+Ignoring off domain address: www.bloomberg.com
+Ignoring off domain address: www.bostonglobe.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wbur.org
+Ignoring off domain address: www.bizjournals.com
+Ignoring off domain address: techcrunch.com
+Ignoring off domain address: www.engadget.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: research.gigaom.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: venturebeat.com
+Ignoring off domain address: www.cnn.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: www.cnn.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.techinasia.com
+Ignoring off domain address: www.businessinsider.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.bbc.co.uk
+Ignoring off domain address: www.thehindubusinessline.com
+Ignoring off domain address: www.nytimes.com
+Ignoring off domain address: worldbank.tumblr.com
+Ignoring off domain address: www.adweek.com
+Ignoring off domain address: www.aljazeera.com
+Ignoring off domain address: www.theguardian.com
+Ignoring off domain address: www.fastcompany.com
+Ignoring off domain address: www.technologyreview.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.technologyreview.com
+Ignoring off domain address: www.mobileworldlive.com
+Ignoring off domain address: www.huffingtonpost.com
+Ignoring off domain address: www.cnn.com
+Ignoring off domain address: www.cnn.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: trendwatching.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: www.techradar.com
+Ignoring off domain address: www.theatlantic.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.warc.com
+Ignoring off domain address: venturefizz.com
+Ignoring off domain address: bostonreview.net
+Ignoring off domain address: www.accenture.com
+Ignoring off domain address: www.technologyreview.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: www.cmo.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: mashable.com
+Ignoring off domain address: gigaom.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: www.research-live.com
+Ignoring off domain address: www.wired.co.uk
+Ignoring off domain address: www.fastcompany.com
+Ignoring off domain address: archive.boston.com
+Ignoring off domain address: voices.mckinseyonsociety.com
+Ignoring off domain address: voices.mckinseyonsociety.com
+Ignoring off domain address: archive.boston.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: gigaom.com
+Ignoring off domain address: gigaom.com
+Ignoring off domain address: www.wired.co.uk
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Scraping url: http://www.jana.com/about#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/values
+Address found: http://www.jana.com/team
+Address found: http://www.jana.com/board
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/about#
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: hbr.org
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.financialexpress.com
+Ignoring off domain address: www.adgully.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: www.wsj.com
+Ignoring off domain address: timesofindia.indiatimes.com
+Ignoring off domain address: www.business-standard.com
+Ignoring off domain address: www.thehindubusinessline.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: adexchanger.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: recode.net
+Ignoring off domain address: www.digit.in
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: blog.percolate.com
+Ignoring off domain address: economictimes.indiatimes.com
+Ignoring off domain address: www.governancenow.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.financialexpress.com
+Ignoring off domain address: www.adgully.com
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Ignoring off domain address: www.wsj.com
+Ignoring off domain address: timesofindia.indiatimes.com
+Ignoring off domain address: www.business-standard.com
+Ignoring off domain address: www.thehindubusinessline.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: adexchanger.com
+Ignoring off domain address: bigthink.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: fortune.com
+Ignoring off domain address: www.recode.net
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: recode.net
+Ignoring off domain address: www.digit.in
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: blog.percolate.com
+Ignoring off domain address: economictimes.indiatimes.com
+Ignoring off domain address: www.governancenow.com
+Ignoring off domain address: gadgets.ndtv.com
+Ignoring off domain address: www.cnet.com
+Ignoring off domain address: yourstory.com
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: www.ibtimes.com
+Ignoring off domain address: www.opptrends.com
+Ignoring off domain address: hbr.org
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: mobiledevmemo.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.prnewswire.com
+Ignoring off domain address: www.bizjournals.com
+Ignoring off domain address: www.huffingtonpost.com
+Ignoring off domain address: www.destinationcrm.com
+Ignoring off domain address: www.ibtimes.com
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: www.bizjournals.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.techinasia.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.washingtonpost.com
+Ignoring off domain address: www.techtudo.com.br
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: br.blastingnews.com
+Ignoring off domain address: www.thehindu.com
+Ignoring off domain address: www.thehindu.com
+Ignoring off domain address: telcoinnovations.blogspot.co.uk
+Ignoring off domain address: www.bloomberg.com
+Ignoring off domain address: www.ft.com
+Ignoring off domain address: www.forbes.com
+Ignoring off domain address: techcrunch.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.thehindu.com
+Ignoring off domain address: www.thehindu.com
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: pando.com
+Ignoring off domain address: www.betaboston.com
+Ignoring off domain address: www.technologyreview.com
+Ignoring off domain address: www.forbes.com
+Ignoring off domain address: newsoffice.mit.edu
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.ibtimes.com
+Ignoring off domain address: medium.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.theguardian.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.forbes.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: www.androidheadlines.com
+Ignoring off domain address: www.forbes.com
+Ignoring off domain address: www.businessinsider.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.billboard.com
+Ignoring off domain address: blogs.wsj.com
+Ignoring off domain address: www.techinasia.com
+Ignoring off domain address: betaboston.com
+Ignoring off domain address: www.techinasia.com
+Ignoring off domain address: www.ibtimes.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: www.mediapost.com
+Ignoring off domain address: venturebeat.com
+Ignoring off domain address: adage.com
+Ignoring off domain address: www.forbes.com
+Ignoring off domain address: www.bloomberg.com
+Ignoring off domain address: www.bostonglobe.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.wbur.org
+Ignoring off domain address: www.bizjournals.com
+Ignoring off domain address: techcrunch.com
+Ignoring off domain address: www.engadget.com
+Ignoring off domain address: www.theinformation.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: research.gigaom.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: venturebeat.com
+Ignoring off domain address: www.cnn.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: www.cnn.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.techinasia.com
+Ignoring off domain address: www.businessinsider.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.bbc.co.uk
+Ignoring off domain address: www.thehindubusinessline.com
+Ignoring off domain address: www.nytimes.com
+Ignoring off domain address: worldbank.tumblr.com
+Ignoring off domain address: www.adweek.com
+Ignoring off domain address: www.aljazeera.com
+Ignoring off domain address: www.theguardian.com
+Ignoring off domain address: www.fastcompany.com
+Ignoring off domain address: www.technologyreview.com
+Ignoring off domain address: www.wired.com
+Ignoring off domain address: www.technologyreview.com
+Ignoring off domain address: www.mobileworldlive.com
+Ignoring off domain address: www.huffingtonpost.com
+Ignoring off domain address: www.cnn.com
+Ignoring off domain address: www.cnn.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: thenextweb.com
+Ignoring off domain address: trendwatching.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: www.techradar.com
+Ignoring off domain address: www.theatlantic.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.warc.com
+Ignoring off domain address: venturefizz.com
+Ignoring off domain address: bostonreview.net
+Ignoring off domain address: www.accenture.com
+Ignoring off domain address: www.technologyreview.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: www.cmo.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: mashable.com
+Ignoring off domain address: gigaom.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: www.research-live.com
+Ignoring off domain address: www.wired.co.uk
+Ignoring off domain address: www.fastcompany.com
+Ignoring off domain address: archive.boston.com
+Ignoring off domain address: voices.mckinseyonsociety.com
+Ignoring off domain address: voices.mckinseyonsociety.com
+Ignoring off domain address: archive.boston.com
+Ignoring off domain address: www.youtube.com
+Ignoring off domain address: gigaom.com
+Ignoring off domain address: gigaom.com
+Ignoring off domain address: www.wired.co.uk
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/about#
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Scraping url: http://www.jana.com/insights
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Ignoring off domain address: qz.com
+Ignoring off domain address: www.businessinsider.com
+Ignoring off domain address: www.ft.com
+Ignoring off domain address: www.zdnet.com
+Ignoring off domain address: www.reuters.com
+Ignoring off domain address: www.emarketer.com
+Ignoring off domain address: www.vserv.com
+Ignoring off domain address: venturebeat.com
+Ignoring off domain address: apac.thinkwithgoogle.com
+Ignoring off domain address: www.emarketer.com
+Ignoring off domain address: techcrunch.com
+Ignoring off domain address: www.reuters.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Scraping url: http://www.jana.com/home
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Scraping url: http://www.jana.com/careers
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/values
+Address found: http://www.jana.com/team
+Address found: http://www.jana.com/board
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Scraping url: http://www.jana.com/values
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/values
+Address found: http://www.jana.com/team
+Address found: http://www.jana.com/board
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/values
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Scraping url: http://www.jana.com/advertise
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/success-stories
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Scraping url: http://www.jana.com/product
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/success-stories
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Scraping url: http://www.jana.com/privacy
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Scraping url: http://www.jana.com/
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Scraping url: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press/companyoverview
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/notable-mentions-economic-times
+Address found: http://www.jana.com/notable-mentions-economic-times
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Address found: http://www.jana.com/notable-mentions-the-wall-street-journal
+Address found: http://www.jana.com/notable-mentions-the-wall-street-journal
+Ignoring off domain address: www.wsj.com
+Address found: http://www.jana.com/notable-mentions-betaboston
+Address found: http://www.jana.com/notable-mentions-betaboston
+Ignoring off domain address: www.betaboston.com
+Address found: http://www.jana.com/notable-mentions-techcrunch
+Address found: http://www.jana.com/notable-mentions-techcrunch
+Ignoring off domain address: techcrunch.com
+Address found: http://www.jana.com/notable-mentions-adexchanger
+Address found: http://www.jana.com/notable-mentions-adexchanger
+Ignoring off domain address: adexchanger.com
+Address found: http://www.jana.com/notable-mentions-informilo
+Address found: http://www.jana.com/notable-mentions-informilo
+Ignoring off domain address: www.informilo.com
+Address found: http://www.jana.com/notable-mentions-the-next-web
+Address found: http://www.jana.com/notable-mentions-the-next-web
+Ignoring off domain address: thenextweb.com
+Address found: http://www.jana.com/notable-mentions-big-think
+Address found: http://www.jana.com/notable-mentions-big-think
+Ignoring off domain address: bigthink.com
+Address found: http://www.jana.com/notable-mentions-forbes
+Address found: http://www.jana.com/notable-mentions-forbes
+Ignoring off domain address: www.forbes.com
+Scraping url: http://www.jana.com/notable-mentions-betaboston
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/betaboston#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: www.betaboston.com
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Email found: press@jana.com
+Scraping url: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/betaboston#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: www.betaboston.com
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Scraping url: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press/companyoverview
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Email found: press@jana.com
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Scraping url: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press/companyoverview
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Scraping url: http://www.jana.com/press/companyoverview
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/brandguidelines#productlogos
+Address found: https://www.jana.com/hubfs/Documents/Jana_Pamphlet_2017.pdf?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Scraping url: http://www.jana.com/press
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/brandguidelines#productlogos
+Address found: https://www.jana.com/hubfs/Documents/Jana_Pamphlet_2017.pdf?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Scraping url: https://www.jana.com/hubfs/Documents/Jana_Pamphlet_2017.pdf?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Scraping url: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Email found: press@jana.com
+Address found: http://www.jana.com/privacy
+Email found: %20press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: https://www.jana.com/hubfs/Approved%20Photography.zip?t=1498720753090
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Scraping url: https://www.jana.com/hubfs/Approved%20Photography.zip?t=1498720753090
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Email found: press@jana.com
+Address found: http://www.jana.com/privacy
+Email found: %20press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: https://www.jana.com/hubfs/Approved%20Photography.zip?t=1498720753090
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  https://www.jana.com/hubfs/Approved%20Photography.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/privacy
+Scraping url: http://www.jana.com/press/awards
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Ignoring off domain address: blog.wealthfront.com
+Ignoring off domain address: bostonchamber.com
+Ignoring off domain address: 2016.mitinclusiveinnovation.com
+Ignoring off domain address: www.asiamobileawards.com
+Ignoring off domain address: www.sbane.org
+Ignoring off domain address: live.ft.com
+Ignoring off domain address: www.prnewswire.com
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: www2.deloitte.com
+Ignoring off domain address: www.prnewswire.com
+Ignoring off domain address: blog.wealthfront.com
+Ignoring off domain address: bostonchamber.com
+Ignoring off domain address: 2016.mitinclusiveinnovation.com
+Ignoring off domain address: www.asiamobileawards.com
+Ignoring off domain address: www.sbane.org
+Ignoring off domain address: live.ft.com
+Ignoring off domain address: www.prnewswire.com
+Ignoring off domain address: bostinno.streetwise.co
+Ignoring off domain address: www2.deloitte.com
+Ignoring off domain address: www.prnewswire.com
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press/awards
+Scraping url: http://www.jana.com/resources
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/resources/webinars
+Address found: http://www.jana.com/insights/whitepaper/changingthegame?utm_medium=resources&utm_campaign=wpchangingthegame&utm_source=website&utm_content=header
+Address found: http://www.jana.com/insights/whitepaper/changingthegame?utm_medium=resources&utm_campaign=wpchangingthegame&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/insights/whitepaper/toptrends2016?utm_medium=resources&utm_campaign=wptoptrends2016&utm_source=website&utm_content=header
+Ignoring off domain address: www.ericsson.com
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/insights/whitepaper/toptrends2016?utm_medium=resources&utm_campaign=wptoptrends2016&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/insights/whitepaper/decodingemergingmarkets?utm_medium=resources&utm_campaign=wpdecodingemergingmarkets&utm_source=website&utm_content=header
+Address found: http://www.jana.com/insights/whitepaper/decodingemergingmarkets?utm_medium=resources&utm_campaign=wpdecodingemergingmarkets&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/insights/whitepaper/indiagrowthopportunity?utm_medium=resources&utm_campaign=wpindiagrowthopp&utm_source=website&utm_content=header
+Address found: http://www.jana.com/insights/whitepaper/indiagrowthopportunity?utm_medium=resources&utm_campaign=wpindiagrowthopp&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/insights/whitepaper/braziluntappedopportunity?utm_medium=resources&utm_campaign=wpbraziluntapped&utm_source=website&utm_content=header
+Address found: http://www.jana.com/insights/whitepaper/braziluntappedopportunity?utm_medium=resources&utm_campaign=wpbraziluntapped&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/insights/whitepaper/indonesiachallenge?utm_medium=resources&utm_campaign=wpindonesiachallenge&utm_source=website&utm_content=header
+Address found: http://www.jana.com/insights/whitepaper/indonesiachallenge?utm_medium=resources&utm_campaign=wpindonesiachallenge&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/resources#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Scraping url: http://www.jana.com/insights/whitepaper/toptrends2016?utm_medium=resources&utm_campaign=wptoptrends2016&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/home
+Ignoring off domain address: www.ericsson.com
+Ignoring off domain address: blog.jana.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/contact
+Scraping url: http://www.jana.com/insights/whitepaper/indiagrowthopportunity?utm_medium=resources&utm_campaign=wpindiagrowthopp&utm_source=website&utm_content=header
+Address found: http://www.jana.com/home
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/insights/whitepaper/braziluntappedopportunity?utm_medium=resources&utm_campaign=wpbraziluntapped&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/home
+Ignoring off domain address: blog.jana.com
+Ignoring off domain address: blog.jana.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/advertise
+Scraping url: http://www.jana.com/resources/webinars
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/resources/webinars
+Ignoring off domain address: l.jana.com
+Ignoring off domain address: l.jana.com
+Ignoring off domain address: l.jana.com
+Ignoring off domain address: l.jana.com
+Address found: http://www.jana.com/resources/webinars#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Scraping url: http://www.jana.com/resources/webinars#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/resources/webinars
+Ignoring off domain address: l.jana.com
+Ignoring off domain address: l.jana.com
+Ignoring off domain address: l.jana.com
+Ignoring off domain address: l.jana.com
+Address found: http://www.jana.com/resources/webinars#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/resources/webinars#
+Skipping visited link:  http://www.jana.com/resources/webinars
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/resources/webinars
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/insights/whitepaper/decodingemergingmarkets?utm_medium=resources&utm_campaign=wpdecodingemergingmarkets&utm_source=website&utm_content=header
+Address found: http://www.jana.com/home
+Ignoring off domain address: blog.jana.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/insights/whitepaper/indonesiachallenge?utm_medium=resources&utm_campaign=wpindonesiachallenge&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/home
+Ignoring off domain address: signup.jana.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/insights/whitepaper/decodingemergingmarkets?utm_medium=resources&utm_campaign=wpdecodingemergingmarkets&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/home
+Ignoring off domain address: blog.jana.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/about
+Scraping url: http://www.jana.com/insights/whitepaper/braziluntappedopportunity?utm_medium=resources&utm_campaign=wpbraziluntapped&utm_source=website&utm_content=header
+Address found: http://www.jana.com/home
+Ignoring off domain address: blog.jana.com
+Ignoring off domain address: blog.jana.com
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/insights/whitepaper/indiagrowthopportunity?utm_medium=resources&utm_campaign=wpindiagrowthopp&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/home
+Ignoring off domain address: cta-redirect.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/insights/whitepaper/toptrends2016?utm_medium=resources&utm_campaign=wptoptrends2016&utm_source=website&utm_content=header
+Address found: http://www.jana.com/home
+Ignoring off domain address: www.ericsson.com
+Ignoring off domain address: blog.jana.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/insights
+Scraping url: http://www.jana.com/insights/whitepaper/changingthegame?utm_medium=resources&utm_campaign=wpchangingthegame&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/home
+Ignoring off domain address: cta-service-cms2.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/resources#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/resources/webinars
+Address found: http://www.jana.com/insights/whitepaper/changingthegame?utm_medium=resources&utm_campaign=wpchangingthegame&utm_source=website&utm_content=header
+Address found: http://www.jana.com/insights/whitepaper/changingthegame?utm_medium=resources&utm_campaign=wpchangingthegame&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/insights/whitepaper/toptrends2016?utm_medium=resources&utm_campaign=wptoptrends2016&utm_source=website&utm_content=header
+Ignoring off domain address: www.ericsson.com
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/insights/whitepaper/toptrends2016?utm_medium=resources&utm_campaign=wptoptrends2016&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/insights/whitepaper/decodingemergingmarkets?utm_medium=resources&utm_campaign=wpdecodingemergingmarkets&utm_source=website&utm_content=header
+Address found: http://www.jana.com/insights/whitepaper/decodingemergingmarkets?utm_medium=resources&utm_campaign=wpdecodingemergingmarkets&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/insights/whitepaper/indiagrowthopportunity?utm_medium=resources&utm_campaign=wpindiagrowthopp&utm_source=website&utm_content=header
+Address found: http://www.jana.com/insights/whitepaper/indiagrowthopportunity?utm_medium=resources&utm_campaign=wpindiagrowthopp&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/insights/whitepaper/braziluntappedopportunity?utm_medium=resources&utm_campaign=wpbraziluntapped&utm_source=website&utm_content=header
+Address found: http://www.jana.com/insights/whitepaper/braziluntappedopportunity?utm_medium=resources&utm_campaign=wpbraziluntapped&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/insights/whitepaper/indonesiachallenge?utm_medium=resources&utm_campaign=wpindonesiachallenge&utm_source=website&utm_content=header
+Address found: http://www.jana.com/insights/whitepaper/indonesiachallenge?utm_medium=resources&utm_campaign=wpindonesiachallenge&utm_source=website&utm_content=cta
+Address found: http://www.jana.com/resources#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/insights/whitepaper/toptrends2016?utm_medium=resources&utm_campaign=wptoptrends2016&utm_source=website&utm_content=cta
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/insights/whitepaper/indiagrowthopportunity?utm_medium=resources&utm_campaign=wpindiagrowthopp&utm_source=website&utm_content=header
+Skipping visited link:  http://www.jana.com/insights/whitepaper/braziluntappedopportunity?utm_medium=resources&utm_campaign=wpbraziluntapped&utm_source=website&utm_content=cta
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/resources/webinars
+Skipping visited link:  http://www.jana.com/insights/whitepaper/decodingemergingmarkets?utm_medium=resources&utm_campaign=wpdecodingemergingmarkets&utm_source=website&utm_content=header
+Skipping visited link:  http://www.jana.com/insights/whitepaper/indonesiachallenge?utm_medium=resources&utm_campaign=wpindonesiachallenge&utm_source=website&utm_content=cta
+Skipping visited link:  http://www.jana.com/insights/whitepaper/decodingemergingmarkets?utm_medium=resources&utm_campaign=wpdecodingemergingmarkets&utm_source=website&utm_content=cta
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights/whitepaper/braziluntappedopportunity?utm_medium=resources&utm_campaign=wpbraziluntapped&utm_source=website&utm_content=header
+Skipping visited link:  http://www.jana.com/insights/whitepaper/indiagrowthopportunity?utm_medium=resources&utm_campaign=wpindiagrowthopp&utm_source=website&utm_content=cta
+Skipping visited link:  http://www.jana.com/insights/whitepaper/toptrends2016?utm_medium=resources&utm_campaign=wptoptrends2016&utm_source=website&utm_content=header
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/insights/whitepaper/changingthegame?utm_medium=resources&utm_campaign=wpchangingthegame&utm_source=website&utm_content=cta
+Skipping visited link:  http://www.jana.com/resources#
+Scraping url: http://www.jana.com/insights/whitepaper/changingthegame?utm_medium=resources&utm_campaign=wpchangingthegame&utm_source=website&utm_content=header
+Address found: http://www.jana.com/home
+Ignoring off domain address: cta-redirect.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Scraping url: http://www.jana.com/insights/whitepaper/indonesiachallenge?utm_medium=resources&utm_campaign=wpindonesiachallenge&utm_source=website&utm_content=header
+Address found: http://www.jana.com/home
+Ignoring off domain address: signup.jana.com
+Ignoring off domain address: cta-redirect.hubspot.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/insights/whitepaper/changingthegame?utm_medium=resources&utm_campaign=wpchangingthegame&utm_source=website&utm_content=header
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/insights/whitepaper/indonesiachallenge?utm_medium=resources&utm_campaign=wpindonesiachallenge&utm_source=website&utm_content=header
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/press/brandguidelines#productlogos
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Email found: press@jana.com
+Address found: http://www.jana.com/privacy
+Email found: %20press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: https://www.jana.com/hubfs/Approved%20Photography.zip?t=1498720753090
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  https://www.jana.com/hubfs/Approved%20Photography.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  https://www.jana.com/hubfs/Documents/Jana_Pamphlet_2017.pdf?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press/brandguidelines#productlogos
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/companyoverview
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Scraping url: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/betaboston#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: www.betaboston.com
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Address found: http://www.jana.com/press/notable/betaboston#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/notable/betaboston#
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Scraping url: http://www.jana.com/press-and-media#notable-mentions
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/brandguidelines#productlogos
+Address found: https://www.jana.com/hubfs/Documents/Jana_Pamphlet_2017.pdf?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  https://www.jana.com/hubfs/Documents/Jana_Pamphlet_2017.pdf?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press/brandguidelines#productlogos
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/notable/betaboston#
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/notable-mentions-the-next-web
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/thenextweb#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: thenextweb.com
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Scraping url: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/thenextweb#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: thenextweb.com
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Address found: http://www.jana.com/press/notable/thenextweb#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/notable/thenextweb#
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/notable-mentions-economic-times
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/economictimes#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Scraping url: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/economictimes#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: brandequity.economictimes.indiatimes.com
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Address found: http://www.jana.com/press/notable/economictimes#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press/notable/economictimes#
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/notable-mentions-informilo
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/informilo#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: www.informilo.com
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Scraping url: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/informilo#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: www.informilo.com
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Address found: http://www.jana.com/press/notable/informilo#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/notable/informilo#
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Scraping url: http://www.jana.com/notable-mentions-adexchanger
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/adexchanger#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: adexchanger.com
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Scraping url: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/adexchanger#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: adexchanger.com
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Address found: http://www.jana.com/press/notable/adexchanger#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/notable/adexchanger#
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/companyoverview
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Scraping url: http://www.jana.com/notable-mentions-forbes
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/forbes#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: www.forbes.com
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Scraping url: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/forbes#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: www.forbes.com
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Address found: http://www.jana.com/press/notable/forbes#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/notable/forbes#
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/notable-mentions-the-wall-street-journal
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press-and-media#brand-guidelines
+Address found: http://www.jana.com/press/notable/wsj#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/wsj#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: www.wsj.com
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Scraping url: http://www.jana.com/press-and-media#brand-guidelines
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/brandguidelines#productlogos
+Address found: https://www.jana.com/hubfs/Documents/Jana_Pamphlet_2017.pdf?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  https://www.jana.com/hubfs/Documents/Jana_Pamphlet_2017.pdf?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press/brandguidelines#productlogos
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press-and-media#brand-guidelines
+Address found: http://www.jana.com/press/notable/wsj#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/wsj#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: www.wsj.com
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Address found: http://www.jana.com/press/notable/wsj#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press-and-media#brand-guidelines
+Skipping visited link:  http://www.jana.com/press/notable/wsj#
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/notable-mentions-techcrunch
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/techcrunch#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: techcrunch.com
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Scraping url: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/techcrunch#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: techcrunch.com
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Address found: http://www.jana.com/press/notable/techcrunch#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/notable/techcrunch#
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/awards
+Scraping url: http://www.jana.com/notable-mentions-big-think
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/bigthink#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: bigthink.com
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Scraping url: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/press
+Address found: http://www.jana.com/press/brandguidelines
+Address found: http://www.jana.com/press/fundingandboard
+Address found: http://www.jana.com/press/notablementions
+Address found: http://www.jana.com/press/awards
+Address found: http://www.jana.com/press/presscontact
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Email found: press@jana.com
+Address found: http://www.jana.com/press/notable/bigthink#
+Email found: press@jana.com
+Address found: https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Address found: http://www.jana.com/press-and-media#notable-mentions
+Ignoring off domain address: bigthink.com
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Address found: http://www.jana.com/press/notable/bigthink#
+Email found: press@jana.com
+Skipping visited link:  https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+Skipping visited link:  http://www.jana.com/press/presscontact
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/press
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/press/notable/bigthink#
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/fundingandboard
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/press/brandguidelines
+Skipping visited link:  http://www.jana.com/press-and-media#notable-mentions
+Skipping visited link:  http://www.jana.com/press/awards
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/success-stories
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Ignoring off domain address: cdn2.hubspot.net
+Ignoring off domain address: cdn2.hubspot.net
+Ignoring off domain address: cdn2.hubspot.net
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/success-stories
+Skipping visited link:  http://www.jana.com/resources
+Scraping url: http://www.jana.com/team
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/values
+Address found: http://www.jana.com/team
+Address found: http://www.jana.com/board
+Address found: http://www.jana.com/careers
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.linkedin.com
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/values
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/team
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Scraping url: http://www.jana.com/board
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/contact
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/values
+Address found: http://www.jana.com/team
+Address found: http://www.jana.com/board
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/home
+Address found: http://www.jana.com/about
+Address found: http://www.jana.com/advertise
+Address found: http://www.jana.com/product
+Address found: http://www.jana.com/insights
+Ignoring off domain address: blog.jana.com
+Address found: http://www.jana.com/resources
+Address found: http://www.jana.com/careers
+Address found: http://www.jana.com/contact
+Ignoring off domain address: twitter.com
+Ignoring off domain address: www.facebook.com
+Ignoring off domain address: www.linkedin.com
+Ignoring off domain address: www.instagram.com
+Address found: http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/values
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/team
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/board
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/board
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/team
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/board
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/values
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/team
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/board
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/contact
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/values
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/team
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/board
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Skipping visited link:  http://www.jana.com/about
+Skipping visited link:  http://www.jana.com/insights
+Skipping visited link:  http://www.jana.com/home
+Skipping visited link:  http://www.jana.com/careers
+Skipping visited link:  http://www.jana.com/press/notablementions
+Skipping visited link:  http://www.jana.com/advertise
+Skipping visited link:  http://www.jana.com/privacy
+Skipping visited link:  http://www.jana.com/product
+Skipping visited link:  http://www.jana.com/resources
+Emails found:
+	press@jana.com
+	info@jana.com
+	%20press@jana.com
+	sales@jana.com
+Links visited:
+	http://www.jana.com/insights/whitepaper/toptrends2016?utm_medium=resources&utm_campaign=wptoptrends2016&utm_source=website&utm_content=cta
+	http://www.jana.com/about#
+	https://www.jana.com/hubfs/Logos/Jana%20Press%20Kit%20Logos.zip?t=1498720753090
+	http://www.jana.com/contact
+	http://www.jana.com
+	http://www.jana.com/insights/whitepaper/indiagrowthopportunity?utm_medium=resources&utm_campaign=wpindiagrowthopp&utm_source=website&utm_content=header
+	http://www.jana.com/insights/whitepaper/braziluntappedopportunity?utm_medium=resources&utm_campaign=wpbraziluntapped&utm_source=website&utm_content=cta
+	http://www.jana.com/press-and-media#brand-guidelines
+	http://www.jana.com/advertise
+	http://www.jana.com/resources/webinars#
+	http://www.jana.com/home
+	http://www.jana.com/press/brandguidelines
+	http://www.jana.com/insights/whitepaper/decodingemergingmarkets?utm_medium=resources&utm_campaign=wpdecodingemergingmarkets&utm_source=website&utm_content=header
+	http://www.jana.com/insights/whitepaper/indonesiachallenge?utm_medium=resources&utm_campaign=wpindonesiachallenge&utm_source=website&utm_content=cta
+	http://www.jana.com/board
+	http://www.jana.com/press/awards
+	http://www.jana.com/
+	http://www.jana.com/notable-mentions-betaboston
+	http://www.jana.com/notable-mentions-the-next-web
+	http://www.jana.com/press/notable/informilo#
+	http://www.jana.com/notable-mentions-informilo
+	http://www.jana.com/about
+	http://www.jana.com/press/notable/wsj#
+	http://www.jana.com/press
+	http://www.jana.com/insights/whitepaper/braziluntappedopportunity?utm_medium=resources&utm_campaign=wpbraziluntapped&utm_source=website&utm_content=header
+	http://www.jana.com/press/notablementions
+	http://www.jana.com/insights
+	http://www.jana.com/notable-mentions-big-think
+	http://www.jana.com/insights/whitepaper/indiagrowthopportunity?utm_medium=resources&utm_campaign=wpindiagrowthopp&utm_source=website&utm_content=cta
+	http://www.jana.com/press-and-media#notable-mentions
+	http://www.jana.com/insights/whitepaper/toptrends2016?utm_medium=resources&utm_campaign=wptoptrends2016&utm_source=website&utm_content=header
+	http://www.jana.com/notable-mentions-forbes
+	http://www.jana.com/privacy
+	http://www.jana.com/notable-mentions-techcrunch
+	http://www.jana.com/insights/whitepaper/changingthegame?utm_medium=resources&utm_campaign=wpchangingthegame&utm_source=website&utm_content=cta
+	http://www.jana.com/success-stories
+	http://www.jana.com/press/presscontact
+	http://www.jana.com/values
+	http://www.jana.com/press/notable/techcrunch#
+	http://www.jana.com/press/notable/forbes#
+	https://www.jana.com/hubfs/Approved%20Photography.zip?t=1498720753090
+	https://www.jana.com/hubfs/Documents/Jana_Pamphlet_2017.pdf?t=1498720753090
+	http://www.jana.com/team
+	http://www.jana.com/notable-mentions-economic-times
+	http://www.jana.com/press/notable/economictimes#
+	http://www.jana.com/notable-mentions-the-wall-street-journal
+	http://www.jana.com/press/notable/adexchanger#
+	http://www.jana.com/resources#
+	http://www.jana.com/press/notable/bigthink#
+	http://www.jana.com/notable-mentions-adexchanger
+	http://www.jana.com/press/brandguidelines#productlogos
+	http://www.jana.com/insights/whitepaper/changingthegame?utm_medium=resources&utm_campaign=wpchangingthegame&utm_source=website&utm_content=header
+	http://www.jana.com/press/notable/betaboston#
+	http://www.jana.com/careers
+	http://www.jana.com/press/fundingandboard
+	http://www.jana.com/press/companyoverview
+	http://www.jana.com/resources/webinars
+	http://www.jana.com/insights/whitepaper/indonesiachallenge?utm_medium=resources&utm_campaign=wpindonesiachallenge&utm_source=website&utm_content=header
+	http://www.jana.com/insights/whitepaper/decodingemergingmarkets?utm_medium=resources&utm_campaign=wpdecodingemergingmarkets&utm_source=website&utm_content=cta
+	http://www.jana.com/resources
+	http://www.jana.com/product
+	http://www.jana.com/press/notable/thenextweb#
