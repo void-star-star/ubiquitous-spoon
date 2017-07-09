@@ -55,9 +55,11 @@ fac-officers@mit.edu
   - Java
   - Selenium standalone server
   - Optional:
-    - Chrome and ChromeDriver, required for JavaScript execution
+    - Chrome and ChromeDriver
 
-    - Note that in some cases Chrome is more stable than the HTMLUNIT driver
+    - Firefox and geckdriver
+
+    - Note that in some cases Chrome and Firefox are more stable than the HTMLUunit driver
 
 ### Installation
 
@@ -80,13 +82,24 @@ fac-officers@mit.edu
 
 - This script uses [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)'s [Python bindings](http://selenium-python.readthedocs.io/index.html)
 
-  - By default, it will use the HTMLUNIT driver, which is somewhat unstable, use --chrome flag if it isn't working
+  - By default, it will use the HTMLUNIT driver, which is somewhat unstable, use --browser flag with either 'firefox' or 'chrome' if it isn't working
 
 - Execute:
 
   `$ python find_email_addresses.py <host name>`
 - For additional debugging output, add '--verbose'
 
+### Tests
+- In the test/ directory are some example HTML files, run a webserver in that directory, e.g.:
+  `$ python -m SimpleHTTPServer 8000`
+- and then run the script:
+  `$ python find_email_address.py localhost --port 8000`
+- the output should be:
+```Emails found:
+	matt2@womer.org
+	foo@bar.com
+	matt@womer.org
+```
 ### Caveats
 
 - This has only been tested under Linux, though it should run on any other systems that support the required dependencies
